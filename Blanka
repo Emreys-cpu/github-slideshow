@@ -1,0 +1,13 @@
+#system clean browser
+#setup all system 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+You  errors]
+#clear system ccach
+![GitHub Logo](/images/logo.png)
+
